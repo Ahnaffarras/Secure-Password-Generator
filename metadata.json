@@ -1,0 +1,6 @@
+{
+  "name": "Kunci - Secure Password Generator",
+  "description": "Generator kata sandi aman secara kriptografi dengan opsi kustomisasi panjang dan tipe karakter, diproses 100% lokal di browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

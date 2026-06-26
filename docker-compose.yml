@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  kunci-generator:
+  image: ghcr.io/Ahnaffarras/Secure-Password-Generator:main
+  container_name: kunci_generator
+  ports:
+    - 8080:80
+  restart: unless-stopped
